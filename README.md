@@ -5,9 +5,10 @@ The **Yetzirah Architecture** is a "bitwise pure" virtual machine derived from t
 
 This system abandons binary logic for **Balanced Ternary** (`-1`, `0`, `+1`), utilizing the ancient "Cube of Space" to define the instruction set architecture (ISA). By mapping the 22 Hebrew letters to specific vector coordinates in a 3D hypercube, the system translates etymological meanings into rigorous mathematical operators.
 
-*   **The 3 Mothers**: Define the primitive logic gates and axes.
-*   **The 7 Doubles**: Define memory limits, I/O, and control flow faces.
-*   **The 12 Simples**: Define the ALU edges and stack operations.
+> **Note on Interpretation:**
+> This architecture represents a best-effort synthesis of the *Sefer Yetzirah's* structural logic applied to computer science. The text exists in multiple recensions (Short, Long, Saadia, Gra), and specific letter attributions—particularly regarding the 12 Simples and their directional vectors—vary significantly between traditions (e.g., Luria vs. Westcott vs. Kaplan).
+>
+> This system prioritizes the **Gra (Vilna Gaon)** arrangement for its superior geometric symmetry and "physical" consistency. It treats the text not merely as mysticism, but as a technical manual for a state machine. This should be viewed as a specific **computational lens**—a functional abstraction derived from the text—rather than a definitive theological or historical assertion.
 
 ---
 
